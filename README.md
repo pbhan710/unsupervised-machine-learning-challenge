@@ -54,7 +54,7 @@ Based on your findings, write up a brief (one or two sentences) recommendation f
 
 ### Clustering (30 points)
 - A K-means model is created (10 points)
-- A for- loop is used to create a list of inertias for each k from 1 to 10, inclusive (5 points)
+- A for-loop is used to create a list of inertias for each k from 1 to 10, inclusive (5 points)
 - A plot is created to examine any elbows that exist (10 points)
 - States a brief (1-2 sentence) conclusion on whether patients can be clustered together, and supports it with findings (10 points)
 
